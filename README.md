@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first html project for The Odin Project. I feel like html has been fairly straightforward, and that seems pretty concerning. Everyone talks about how hard coding is, and I just know that the hard part will be coming eventually. I guess, for now, I will enjoy how 'easy' html is. I've learned, what I feel, is a solid basic understanding of what html is and does to a webpage. It seems very basic, and definitely brings me back to Myspace days. Cheers to my very first project!
